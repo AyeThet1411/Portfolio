@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ebd835fc.css",
+    "main.js": "/Portfolio/static/js/main.5fad8a91.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/project-3.png": "/Portfolio/static/media/project-3.6b28f563c3017f5bdb4d.png",
+    "static/media/client-3.png": "/Portfolio/static/media/client-3.61ac06961ae4bcd7d902.png",
+    "static/media/project-1.png": "/Portfolio/static/media/project-1.3b5dfa201b8458c3dbdb.png",
+    "static/media/project-2.png": "/Portfolio/static/media/project-2.684ab7dd880747d81227.png",
+    "static/media/client-2.png": "/Portfolio/static/media/client-2.0cd5cd8ebf8b81468ed6.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.c695bb68f5fa425ed54f.pdf",
+    "static/media/react.png": "/Portfolio/static/media/react.cd050eefee2777be7e13.png",
+    "static/media/jquery.png": "/Portfolio/static/media/jquery.7f860688ba27573d88fa.png",
+    "static/media/css.png": "/Portfolio/static/media/css.17683dee738e3c28ee92.png",
+    "static/media/profile.png": "/Portfolio/static/media/profile.e7079fd7ff7a9805a371.png",
+    "static/media/project-4.png": "/Portfolio/static/media/project-4.1370980332443a801798.png",
+    "static/media/photoshop.png": "/Portfolio/static/media/photoshop.1713390c5900f5301b9c.png",
+    "static/media/nodejs.png": "/Portfolio/static/media/nodejs.bda2a7a550a14f5672ef.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.e39bcff53fde5e347f65.png",
+    "static/media/Figma.png": "/Portfolio/static/media/Figma.59f230d6fb6c3f0c9e6f.png",
+    "static/media/adobe.png": "/Portfolio/static/media/adobe.17a983a9faa78e10270a.png",
+    "static/media/html.png": "/Portfolio/static/media/html.9aa58a21c55e8e2b5fb9.png",
+    "static/media/slick.svg": "/Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.ebd835fc.css.map": "/Portfolio/static/css/main.ebd835fc.css.map",
+    "main.5fad8a91.js.map": "/Portfolio/static/js/main.5fad8a91.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebd835fc.css",
+    "static/js/main.5fad8a91.js"
+  ]
+}
