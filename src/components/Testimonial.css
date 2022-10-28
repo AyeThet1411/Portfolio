@@ -1,0 +1,53 @@
+.testimonial {
+  margin-top: 20px;
+  margin-bottom: 51px;
+}
+.client--card {
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+}
+.client--info {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.client--review {
+  word-wrap: break-word;
+}
+.client--info h4 {
+  font-style: italic;
+  font-size: 20px;
+  color: #ffff00;
+}
+.client--info p {
+  font-size: 12px;
+}
+.client-img {
+  border: 1px solid lightgray;
+  background-color: #000;
+  padding: 5px;
+}
+.slick-next{
+  right: 0 !important;
+}
+.slick-prev{
+  left: 0 !important;
+}
+.slick-dots li button:before{
+  font-size: 15px;
+  color: #ffff00;
+}
+.slick-dots li.slick-active button:before{
+  color: #ffff00;
+  font-size: 25px;
+  opacity: 1;
+  transition: .5s;
+}
+.testimonial-single-item{
+  border: 7px solid #fff;
+  border-radius: 45px;
+}
+
