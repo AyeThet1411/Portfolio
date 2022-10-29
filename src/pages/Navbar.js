@@ -16,14 +16,7 @@ import {
 import { Link } from "react-router-dom";
 
 const drawerWidth = 240;
-const navItems = [
-  "Home",
-  "Projects",
-  "Skill",
-  "Services",
-  "Testimonial",
-  "Contact",
-];
+const navItems = ["Home", "Projects", "Contact"];
 
 export default function Navbar(props) {
   const [mobileOpen, setMobileOpen] = React.useState(false);
@@ -70,7 +63,9 @@ export default function Navbar(props) {
               </Button>
             ))}
           </Box>
-          <button className="general-btn nav-btn"><Link to={'Contact'}>Hire me</Link></button>
+          <button className="general-btn nav-btn">
+            <Link to={"Contact"}>Hire me</Link>
+          </button>
         </Toolbar>
       </AppBar>
       <Box component="nav">
